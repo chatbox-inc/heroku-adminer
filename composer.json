@@ -6,5 +6,7 @@
             "email": "t.goto@chatbox-inc.com"
         }
     ],
-    "require": {}
+    "require": {
+        "composer/installers": "^1.5"
+    }
 }
