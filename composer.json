@@ -1,0 +1,10 @@
+{
+    "name": "chatbox-inc/heroku-adminer",
+    "authors": [
+        {
+            "name": "t.goto",
+            "email": "t.goto@chatbox-inc.com"
+        }
+    ],
+    "require": {}
+}
